@@ -24,7 +24,7 @@ namespace StringCalculator
         {
             return int.Parse(number);
         }
-
+        
         public int SumOfNumbers(int a, int b)
         {
             int total;
